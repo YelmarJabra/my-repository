@@ -29,3 +29,12 @@ if __name__ == "__main__":
 
 # 404 error we change the /mylist to something else
 
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+
