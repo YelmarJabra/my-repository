@@ -19,3 +19,4 @@ ${FOLDER}/index.html
 ${FOLDER}/result.html
 
 python3 app.py
+
